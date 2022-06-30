@@ -43,4 +43,4 @@ The marketing team is monitoring customers' activity on the website to assess th
 ## A/B Test Result
 The business development team is doing an A/B test experiment on the company website to test the effectiveness of the new landing page. Based on the experiment result, we need to determine whether the new landing page that was tested should be adopted or not by performing a hypothesis testing. Should the result of the hypothesis testing suggest that the new landing page showed a statistically significant performance compared to the control group, the new landing page will be implemented.
 
-Hypothesis testing will be done using the frequentist method.
+Hypothesis testing will be done using the frequentist method. Reference was taken from here: https://abtestcalculator.herokuapp.com/
